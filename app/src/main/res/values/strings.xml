@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android Job Demo</string>
+    <string name="starting">Scheduling…</string>
+</resources>
